@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "workspaces": [ "packages/*" ],
+  "workspaces": [ "packages/client", "packages/server", "packages/*" ],
   "scripts": {
     "co": "sui-mono commit",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npm run build --workspace=packages/client",
+    "start": "npm start --workspace=packages/server",
+    "dev:api": "npm run build && npm run dev --workspace=server"
   },
   "keywords": [],
   "author": "",
