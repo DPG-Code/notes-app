@@ -1,0 +1,7 @@
+PUT  http://localhost:3001/api/notes/6303639547c2d4b5560fe3f7
+Content-Type: application/json
+
+{
+    "content" : "@DPG-Code",
+    "important" : true
+}
