@@ -4,7 +4,7 @@
 
 Stay organized and productive - my app is a sleek and intuitive notes app for all your needs.
 
-![Project previe image](https://res.cloudinary.com/dhpxqwsym/image/upload/w_1280,h_720,c_fill/v1678870284/documentations/notesapp_tt6set.png)
+![Project previe image](https://res.cloudinary.com/dhpxqwsym/image/upload/w_1280,h_720,c_fill/v1678870284/documentations/notesapp_rtiscs)
 
 ### ⚡ Built With
 
